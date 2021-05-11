@@ -83,6 +83,7 @@
                     >
                         <div v-for="item in data" :key="item.id">
                             <div>
+                                d
                                 <h5></h5>
                                 <apexchart
                                     width="500"
